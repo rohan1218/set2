@@ -1,2 +1,4 @@
 import math
-print(math.pow(2,3))
+a=int(input())
+b=int(input())
+print(math.pow(a,b))
